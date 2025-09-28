@@ -1,0 +1,5 @@
+KPI,conteo,tasa_sobre_total
+TP (detectados),4311,0.147
+FP (falsas alertas),4648,0.158
+FN (no detectados),1786,0.061
+TN (sanos),18643,0.634

@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "Entrenar modelo (train_validate.py)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/train_validate.py",
+      "console": "integratedTerminal",
+      "env": {
+        "CLIENTES_XLSB": "/Users/karenaraque/Desktop/practica_cartera_temu/DataFramePrueba 2025_08.xlsb"
+      }
+    },
+    {
+      "name": "Levantar API (api.py)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/api.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
