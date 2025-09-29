@@ -1,0 +1,40 @@
+{
+  "IdentificadorCliente": 55027,
+
+  "FechaEvento": "2023-10-18T18:14:19.630Z",
+  "FechaVinculacionCliente": 44713.5,
+  "FechaPrimerUso": 44727.5,
+  "FechaUltimoUso": 45199.5,
+
+  "UsabilidadCupo": 0.201138,
+  "DiasMaximosMoraCreditosGenerados": 0,
+
+  "NumeroCreditosGPrevius": 0,
+  "NumeroCreditosGCanalFPrevius": 0,
+  "NumeroCreditosGEstadoActivosPrevius": 0,
+  "NumeroCreditosGEstadoPagadosPrevius": 0,
+  "NumeroCreditosGCanalVPrevius": 0,
+
+  "NumeroCreditosLPrevius": 0,
+  "NumeroCreditosLEstadoActivosPrevius": 0,
+  "NumeroCreditosLEstadoPagadosPrevius": 0,
+
+  "TotalPagosEfectuadosGlobalmentePrevius": 0,
+  "TotalPagosEfectuadosLocalmentePrevius": 0,
+
+  "NumeroIntentosFallidos": 0,
+  "CupoAprobado": 1000000,
+  "ScoreCrediticio": 668,
+  "Edad": 23,
+
+  "CategoriaPrincipalCredito": "belleza-y-cuidado-personal",
+  "UsoAppWeb": "App",
+  "Genero": "Femenino",
+  "TipoMunicipioEntregaTC": "INTERMEDIO",
+  "CanalMunicipioEntregaTC": "Fisico",
+
+  "CodigoAlmacenEntregaTC": 366898,
+  "CodigoMunicipioEntregaTC": 2,
+
+  "DiasMora": 0
+}
