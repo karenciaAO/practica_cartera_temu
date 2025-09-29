@@ -84,4 +84,4 @@ Ejemplo de payload para /score:
 }
 ## Vista Swagger UI
 
-![Swagger UI](/Users/karenaraque/Desktop/Screenshot 2025-09-28 at 8.22.45 PM.png)
+![Swagger UI](Screenshot 2025-09-28 at 8.30.01 PM.png)
