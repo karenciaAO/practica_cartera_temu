@@ -82,6 +82,4 @@ Ejemplo de payload para /score:
   "CodigoMunicipioEntregaTC": 2,
   "DiasMora": 0
 }
-## Vista Swagger UI
 
-![Swagger UI](Screenshot 2025-09-28 at 8.30.01 PM.png)
